@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.562,D:\private\mychess\Unit1.cpp=D:\private\mychess\engine.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,D:\private\mychess\Unit1.h=D:\private\mychess\engine.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.765,=D:\private\mychess\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,D:\programms\Unit1.dfm=D:\private\mychess\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,D:\programms\Unit1.h=D:\private\mychess\main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,D:\programms\Unit1.cpp=D:\private\mychess\main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,D:\programms\Project1.cbproj=D:\private\mychess\mychess.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,=D:\programms\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,=D:\programms\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,=D:\programms\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
